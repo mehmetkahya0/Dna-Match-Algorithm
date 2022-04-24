@@ -1,0 +1,4 @@
+colorama==0.4.4
+fonttools==4.29.1
+requests==2.27.1
+times==0.7
