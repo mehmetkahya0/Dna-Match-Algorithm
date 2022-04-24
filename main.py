@@ -27,7 +27,7 @@ len1 = len(list_dna1)
 len2 = len(list_dna2)
 
 if len1 != len2:
-    print(Fore.RED + "len isn't matched")
+    print(Fore.RED + "The lengths of the lists are not equal. Lists must be even!")
     exit()
 
 else:
